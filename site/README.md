@@ -1,0 +1,1 @@
+# LazyWim website
